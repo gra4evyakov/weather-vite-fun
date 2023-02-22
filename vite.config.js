@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/weather-vite/',
+  base: '/weather-vite-fun/',
   plugins: [vue()],
   resolve: {
     alias: {
